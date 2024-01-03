@@ -18,9 +18,17 @@ Introducing the Cover Letter Generator, a cutting-edge tool crafted to help you 
    cd gemini-api-experiments
    ```
 
+3. Prerequisites: 
+   
+   - python 3.9.0+ version
+
 3. Install the dependencies:
 
    ```python
+   pip install google-generativeai langchain-google-genai streamlit
+   ```
+   or 
+   ```
    pip install -r requirements.txt
    ```
 
